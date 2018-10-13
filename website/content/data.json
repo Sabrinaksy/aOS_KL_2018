@@ -57,11 +57,23 @@
   ],
   "Sponsors": [
     {
+      "Name": "Fedelis",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Fedelis.png?raw=true",
+      "Link": "http://www.fedelis.com.my/",
+      "Category": ""
+    },
+    {
       "Name": "Rhipe",
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/rhipe.png?raw=true",
       "Link": "https://www.rhipe.com/",
       "Category": ""
     },
+    {
+      "Name": "UniQ Consulting",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/UniQsm.png?raw=true",
+      "Link": "https:www.facebook.com/uniqcs/",
+      "Category": ""
+     },
     {
       "Name": "Konfx",
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Konfxlogo.png?raw=true",
@@ -69,9 +81,9 @@
       "Category": ""
     },
     {
-      "Name": "Fedelis",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Fedelis.png?raw=true",
-      "Link": "http://www.fedelis.com.my/",
+      "Name": "Jabra",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Jabrasm.jpg?raw=true",
+      "Link": "https://www.jabra.com/",
       "Category": ""
     },
     {
@@ -80,36 +92,25 @@
       "Link": "https://www.logitech.com/en-my/",
       "Category": ""
     },
-     {
-      "Name": "Jabra",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Jabrasm.jpg?raw=true",
-      "Link": "https://www.jabra.com/",
+    {
+      "Name": "Plantronics",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Plantsm.png?raw=true",
+      "Link": "https://www.plantronics.com/sg/en/",
       "Category": ""
     },
+     {
+      "Name": "Smart Technologies",
+      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Smartsm.png?raw=true",
+      "Link": "https://www.smarttech.com/sg/en/",
+      "Category": ""
+    },
+
      {
       "Name": "Kickle",
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Kicklesm.png?raw=true",
       "Link": "https://www.kickle.com/",
       "Category": ""
     },
-     {
-      "Name": "Plantronics",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Plantsm.png?raw=true",
-      "Link": "https://www.plantronics.com/sg/en/",
-      "Category": ""
-    },
-    {
-      "Name": "Smart Technologies",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Smartsm.png?raw=true",
-      "Link": "https://www.smarttech.com/sg/en/",
-      "Category": ""
-    },
-     {
-      "Name": "UniQ Consulting",
-      "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/UniQsm.png?raw=true",
-      "Link": "https:www.facebook.com/uniqcs/",
-      "Category": ""
-     },
     {
       "Name": "Ep-Tech",
       "Image": "https://github.com/aOSOrganization/aOS_KL_2018/blob/master/website/content/Ep-Tec.png?raw=true",
